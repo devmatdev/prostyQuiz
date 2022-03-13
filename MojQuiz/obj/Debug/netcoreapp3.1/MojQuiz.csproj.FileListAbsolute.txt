@@ -1,0 +1,14 @@
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.exe
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.deps.json
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.runtimeconfig.json
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.dll
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\bin\Debug\netcoreapp3.1\MojQuiz.pdb
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.AssemblyInfo.cs
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.dll
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.pdb
+D:\PROGRAMOWANIE\MojQuiz\MojQuiz\obj\Debug\netcoreapp3.1\MojQuiz.genruntimeconfig.cache

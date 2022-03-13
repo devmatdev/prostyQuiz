@@ -1,0 +1,24 @@
+﻿Czy C# jest najlepszym językiem programowania?
+Tak
+Nie
+Chyba tak
+Nie wiem
+A5
+Który z podanych jest systemem operacyjnym typu Linux?
+Janosz
+Krasex
+Ubuntu
+Gruntu
+C5
+Które dwie technologie pozwalają budować stronki od strony Front-end?
+C#+MS DOS
+HTML+CSS
+Linux+Windows
+Inne
+B5
+Czy psy lubią piłeczki?
+Tak
+Nie
+Średnio
+Szybko! Dawaj piłeczkę! :)
+D5
